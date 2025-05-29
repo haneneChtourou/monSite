@@ -1,1 +1,11 @@
-"wp-config.php" 
+<<<<<<< HEAD
+=======
+# Ignore les fichiers de WordPress non nécessaires
+wp-content/uploads/
+wp-content/cache/
+wp-content/backups/
+wp-content/languages/
+*.log
+*.sql
+wp-config.php
+>>>>>>> test
